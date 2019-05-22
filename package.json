@@ -1,5 +1,6 @@
 {
   "name": "2019-3-20-react-testing-example",
+  "homepage": "https://matan-yes.github.io/sample-ci-cd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
